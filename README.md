@@ -22,6 +22,6 @@ Finalist in the **Smart India Hackathon (SIH) 2024**, working on **image-based c
 I’m interested in collaborating on projects in AI, IoT, Embedded Systems, and open-source development.  
 
 ### 📫 Connect with Me  
-- **Email:** [your email]  apoorva.akb@gmail.com
+- **Email:**  apoorva.akb@gmail.com
 - **LinkedIn:** [linkedin.com/in/apoo3va](https://www.linkedin.com/in/apoo3va)  
 - **GitHub:** [github.com/apoo3va](https://github.com/apoo3va)  
