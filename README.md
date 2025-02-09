@@ -1,27 +1,40 @@
-# 👋 Hi, I'm Apoorva  
+# 👋 **Hello! I'm Apoorva**  
 
-## 🌟 About Me  
-Electronics and Communication Engineering (ECE) second-year student. Passionate about AI, IoT, and solving real-world problems through technology. I thrive on learning new skills, innovation, and collaboration.  
+---
 
-### 👀 Interests  
-- AI, IoT, and Embedded Systems  
-- Hackathons and teamwork  
-- Building scalable and impactful tech solutions  
+### 🎓 **About Me**
+I'm a **2nd-year ECE** student at IIIT Manipur with a strong passion for **AI**, **IoT**, and solving real-world problems through innovative technology. Constantly learning and eager to collaborate on impactful projects!
 
-### ⚙️ Skills & Tools  
-- **Programming:** Python, C++, MATLAB  
-- **Web Development:** React.js, Node.js  
-- **AI/ML:** TensorFlow, Scikit-learn, OpenCV  
-- **IoT/Embedded Systems:** Arduino, Raspberry Pi  
-- **Version Control:** Git, GitHub  
+---
 
-### 🌟 Recent Achievement  
-Finalist in the **Smart India Hackathon (SIH) 2024**, working on **image-based construction monitoring** at IIT Gandhinagar!  
+### 🔥 **What I Love**  
+- **AI & IoT** – Building smarter, connected systems  
+- **Hackathons** – Teamwork, problem-solving, and innovation  
+- **Tech Solutions** – Developing scalable, practical tech  
 
-## 💡 Let’s Collaborate!  
-I’m interested in collaborating on projects in AI, IoT, Embedded Systems, and open-source development.  
+---
 
-### 📫 Connect with Me  
-- **Email:**  apoorva.akb@gmail.com
-- **LinkedIn:** [linkedin.com/in/apoo3va](https://www.linkedin.com/in/apoo3va)  
-- **GitHub:** [github.com/apoo3va](https://github.com/apoo3va)  
+### 🛠 **Tech Stack**  
+**Languages:** Python | C++ | MATLAB  
+**Web:** React.js | Node.js  
+**AI/ML:** TensorFlow | OpenCV  
+**Embedded Systems:** Arduino | Raspberry Pi  
+**Version Control:** Git | GitHub  
+
+---
+
+### 🏆 **Recent Achievement**  
+🏅 **Finalist** at **Smart India Hackathon (SIH) 2024**  
+_Developed an image-based construction monitoring system_ at IIT Gandhinagar.  
+
+---
+
+### 🤝 **Let’s Collaborate!**  
+If you're into **AI**, **IoT**, or **Embedded Systems**, let's build something amazing together!
+
+---
+
+### 📬 **Contact Me**  
+- ✉️ **Email:** [apoorva.akb@gmail.com](mailto:apoorva.akb@gmail.com)  
+- 🔗 **LinkedIn:** [apoo3va](https://www.linkedin.com/in/apoo3va)  
+- 🧑‍💻 **GitHub:** [apoo3va](https://github.com/apoo3va)  
