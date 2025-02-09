@@ -16,12 +16,12 @@ Electronics and Communication Engineering (ECE) second-year student. Passionate 
 - **Version Control:** Git, GitHub  
 
 ### 🌟 Recent Achievement  
-[Include any recent accomplishments like hackathons, projects, or awards]  
+Finalist in the **Smart India Hackathon (SIH) 2024**, working on **image-based construction monitoring** at IIT Gandhinagar!  
 
 ## 💡 Let’s Collaborate!  
 I’m interested in collaborating on projects in AI, IoT, Embedded Systems, and open-source development.  
 
 ### 📫 Connect with Me  
-- **Email:** apoorva.akb@gmail.com  
+- **Email:** [your email]  apoorva.akb@gmail.com
 - **LinkedIn:** [linkedin.com/in/apoo3va](https://www.linkedin.com/in/apoo3va)  
 - **GitHub:** [github.com/apoo3va](https://github.com/apoo3va)  
