@@ -1,27 +1,27 @@
 # 👋 Hi, I'm Apoorva  
 
 ## 🌟 About Me  
-[Your degree/program] student at [Your University], passionate about [your passions, e.g., AI, Software Development, Robotics, etc.]. Originally from [Your Hometown], I’m dedicated to learning new technologies and solving real-world challenges through innovation and collaboration.  
+Electronics and Communication Engineering (ECE) second-year student. Passionate about AI, IoT, and solving real-world problems through technology. I thrive on learning new skills, innovation, and collaboration.  
 
 ### 👀 Interests  
-- [Interest 1, e.g., AI, Web Development, IoT]  
-- [Interest 2, e.g., Hackathons, Open-source Projects]  
-- [Interest 3, e.g., Solving real-world problems through technology]  
+- AI, IoT, and Embedded Systems  
+- Hackathons and teamwork  
+- Building scalable and impactful tech solutions  
 
 ### ⚙️ Skills & Tools  
-- **Programming:** [Languages you know, e.g., Python, Java, C++]  
-- **Web Development:** [Tech stack you know, e.g., React.js, Node.js]  
-- **AI/ML:** [Tools and libraries you’re familiar with, e.g., TensorFlow, Keras]  
-- **IoT/Embedded Systems:** [Tools and platforms you know, e.g., Raspberry Pi, Arduino]  
+- **Programming:** Python, C++, MATLAB  
+- **Web Development:** React.js, Node.js  
+- **AI/ML:** TensorFlow, Scikit-learn, OpenCV  
+- **IoT/Embedded Systems:** Arduino, Raspberry Pi  
 - **Version Control:** Git, GitHub  
 
 ### 🌟 Recent Achievement  
-[Include any recent accomplishments like hackathons, competitions, projects, etc.]  
+[Include any recent accomplishments like hackathons, projects, or awards]  
 
 ## 💡 Let’s Collaborate!  
-I’m eager to collaborate on projects involving [area you want to focus on, e.g., AI, Web Development, Machine Learning, etc.].  
+I’m interested in collaborating on projects in AI, IoT, Embedded Systems, and open-source development.  
 
 ### 📫 Connect with Me  
-- **Email:**   apoorva.akb@gmail.com
-- **LinkedIn:** 
-- **GitHub:**  
+- **Email:** apoorva.akb@gmail.com  
+- **LinkedIn:** [linkedin.com/in/apoo3va](https://www.linkedin.com/in/apoo3va)  
+- **GitHub:** [github.com/apoo3va](https://github.com/apoo3va)  
