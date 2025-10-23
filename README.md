@@ -19,6 +19,7 @@ I'm a **3rd-year ECE** student at IIIT Manipur with a strong passion for **AI**,
 **Web:** React.js | Node.js  
 **AI/ML:** TensorFlow | OpenCV  
 **Data Science:** Data Visualization | Data Analysis 
+
 **Version Control:** Git | GitHub  
 
 ---
