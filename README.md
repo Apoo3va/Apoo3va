@@ -18,7 +18,7 @@ I'm a **3rd-year ECE** student at IIIT Manipur with a strong passion for **AI**,
 **Languages:** Python | C++ | MATLAB  
 **Web:** React.js | Node.js  
 **AI/ML:** TensorFlow | OpenCV  
-**Embedded Systems:** Arduino | Raspberry Pi  
+**Data Science:** Data Visualization | Data Analysis 
 **Version Control:** Git | GitHub  
 
 ---
