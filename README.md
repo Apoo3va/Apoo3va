@@ -1,24 +1,21 @@
 # 🚀 Hey, I'm Apoorva  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apoo3va&label=Profile%20Views&color=red&style=flat" />
-</p>
-
-<p align="center">
-  <b>Data Science • Machine Learning • Intelligent Systems</b>
+  <b>Data Science • Machine Learning </b>
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-🎓 3rd Year B.Tech (ECE) Student  
-🏫 Indian Institute of Information Technology (IIIT), Manipur  
-📊 CPI: **8.18 / 10**  
+I'm a 3rd-year ECE student at Indian Institute of Information Technology (IIIT), Manipur with a strong passion for Data Science, Machine Learning, and solving real-world problems through innovative technology. Constantly learning and eager to collaborate on impactful projects! 
 
-💡 Passionate about building Data Science and ML-powered real-world solutions  
-🚀 Love solving data anlysis problems 
-🏆 Finalist – Smart India Hackathon (SIH) 2024  
+---
+## 🎓 Education
+
+Indian Institute of Information Technology (IIIT), Manipur
+Bachelor of Technology (B.Tech) in Electronics and Communication Engineering (ECE)
+📊 CPI: 8.18 / 10
 
 ---
 
@@ -32,42 +29,31 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 ## 🛠 Tech Stack  
 
 ### 💻 Languages  
-![Python]
-![C]
-![C++]
-![JavaScript]
+Python, C,C++, HTML/CSS
 
 ---
 
 ### 🌐 Web Development  
-![React]
-![Node.js]
-![Express.js]
-![Next.js]
+HTML, CSS, JavaScript, React, Node.js, Express.js,Next.js
 
 ---
 
-### 📊 Data Science & ML  
-![Pandas]
-![NumPy]
-![Scikit-Learn]
-![OpenCV]
+### 📊 Libraries 
+ Pandas, NumPy, Matplotlib,Seaborn,Scikit-learn,Scipy,OpenCV
 
 ---
 
 ### 🤖 Frameworks  
-![PyTorch])
-![TensorFlow]
+PyTorch, TensorFlow
 
 ---
 
-### ⚙ Tools & Platforms  
-![Git]
-![Linux]
-![Jupyter Notebook]
-![VS Code]
+### ⚙ OS & Version Control  
+Windows,Git, GitHub,Linux(Ubuntu)
 
 ---
+### 🧑‍💻 Developer Tools
+Jupyter Notebook,VS Code,Pycharm
 
 ## 🔥 Current Focus  
 
