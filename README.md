@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me  
 
-I'm a 3rd-year ECE student at Indian Institute of Information Technology (IIIT), Manipur with a strong passion for Data Science, Machine Learning, and solving real-world problems through innovative technology. Constantly learning and eager to collaborate on impactful projects! 
+I'm a 3rd-year Btech ECE student at Indian Institute of Information Technology (IIIT), Manipur with a strong passion for Data Science, Machine Learning, and solving real-world problems through innovative technology. Constantly learning and eager to collaborate on impactful projects! 
 
 ---
 ## 🎓 Education
