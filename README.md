@@ -13,9 +13,9 @@ I'm a 3rd-year ECE student at Indian Institute of Information Technology (IIIT),
 ---
 ## 🎓 Education
 
-Indian Institute of Information Technology (IIIT), Manipur
-Bachelor of Technology (B.Tech) in Electronics and Communication Engineering (ECE)
-📊 CPI: 8.18 / 10
+- Indian Institute of Information Technology (IIIT), Manipur
+- Bachelor of Technology (B.Tech) in Electronics and Communication Engineering (ECE)
+- 📊 CPI: 8.18 / 10
 
 ---
 
@@ -52,8 +52,11 @@ PyTorch, TensorFlow
 Windows,Git, GitHub,Linux(Ubuntu)
 
 ---
+
 ### 🧑‍💻 Developer Tools
 Jupyter Notebook,VS Code,Pycharm
+
+---
 
 ## 🔥 Current Focus  
 
@@ -66,9 +69,9 @@ Jupyter Notebook,VS Code,Pycharm
 
 ## 🤝 Let’s Connect  
 
-📧 **Email:** [apoorva.akb@gmail.com](mailto:apoorva.akb@gmail.com)
-🔗 **LinkedIn:** [apoo3va](https://www.linkedin.com/in/apoo3va) 
-🧑‍💻 **GitHub:** [apoo3va](https://github.com/apoo3va)
+- 📧 **Email:** [apoorva.akb@gmail.com](mailto:apoorva.akb@gmail.com)
+- 🔗 **LinkedIn:** [apoo3va](https://www.linkedin.com/in/apoo3va) 
+- 🧑‍💻 **GitHub:** [apoo3va](https://github.com/apoo3va)
 
 ---
 
