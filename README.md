@@ -16,8 +16,8 @@
 🏫 Indian Institute of Information Technology (IIIT), Manipur  
 📊 CPI: **8.18 / 10**  
 
-💡 Passionate about building ML-powered real-world solutions  
-🚀 Love solving complex problems with data  
+💡 Passionate about building Data Science and ML-powered real-world solutions  
+🚀 Love solving data anlysis problems 
 🏆 Finalist – Smart India Hackathon (SIH) 2024  
 
 ---
@@ -32,56 +32,47 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 ## 🛠 Tech Stack  
 
 ### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python]
+![C]
+![C++]
+![JavaScript]
 
 ---
 
 ### 🌐 Web Development  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React]
+![Node.js]
+![Express.js]
+![Next.js]
 
 ---
 
 ### 📊 Data Science & ML  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Pandas]
+![NumPy]
+![Scikit-Learn]
+![OpenCV]
 
 ---
 
-### 🤖 Deep Learning  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🤖 Frameworks  
+![PyTorch])
+![TensorFlow]
 
 ---
 
 ### ⚙ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apoo3va&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoo3va&layout=compact&theme=tokyonight" />
-</p>
+![Git]
+![Linux]
+![Jupyter Notebook]
+![VS Code]
 
 ---
 
 ## 🔥 Current Focus  
 
-- 📌 Advanced Machine Learning  
-- 📌 Deep Learning & Computer Vision  
+- 📌 Data analysis,Data Visualization
+- 📌 Advanced Machine Learning    
 - 📌 End-to-End ML Deployment  
 - 📌 DSA & Competitive Programming  
 
