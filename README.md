@@ -1,21 +1,21 @@
 # 🚀 Hey, I'm Apoorva  
 
 <p align="center">
-  <b>Data Science • Machine Learning </b>
+  <b>Data Science • Data Analyst • Machine Learning • Artificial Intelligence </b>
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-I'm a 3rd-year Btech ECE student at Indian Institute of Information Technology (IIIT), Manipur with a strong passion for Data Science, Machine Learning, and solving real-world problems through innovative technology. Constantly learning and eager to collaborate on impactful projects! 
+I'm a final Btech ECE student at Indian Institute of Information Technology (IIIT), Manipur with a strong passion for Data Science,Data Analyst, Machine Learning, and Artificial Intelligence. Constantly learning and eager to collaborate on impactful projects! 
 
 ---
 ## 🎓 Education
 
 - Indian Institute of Information Technology (IIIT), Manipur
 - Bachelor of Technology (B.Tech) in Electronics and Communication Engineering (ECE)
-- 📊 CPI: 8.18 / 10
+- 📊 CPI: 8.35 / 10
 
 ---
 
