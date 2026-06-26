@@ -69,8 +69,8 @@ Jupyter Notebook,VS Code,Pycharm
 
 ## 🤝 Let’s Connect  
 
-- 📧 **Email:** [apoorva.akb@gmail.com]()
-- 🔗 **LinkedIn:** [apoo3va]() 
+- 📧 **Email:** []()
+- 🔗 **LinkedIn:** []() 
 - 🧑‍💻 **GitHub:** [apoo3va](https://github.com/apoo3va)
 
 ---
