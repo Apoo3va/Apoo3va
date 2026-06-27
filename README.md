@@ -11,12 +11,13 @@
 I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur** with a strong passion for Data Science, Machine Learning, Artificial Intelligence and Workflow Automation. Constantly learning and eager to collaborate on impactful projects!
 
 ---
-
 ## 🎓 Education
 
-🏫 **Indian Institute of Information Technology (IIIT), Manipur**
-🎓 B.Tech in Electronics and Communication Engineering (ECE)
+🏫 **Indian Institute of Information Technology (IIIT), Manipur**<br>
+🎓 B.Tech in Electronics and Communication Engineering (ECE)<br>
 📊 CPI: **8.35 / 10**
+
+---
 
 ---
 
