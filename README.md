@@ -15,7 +15,7 @@ I'm a final year B.Tech ECE student at **Indian Institute of Information Technol
 
 🏫 **Indian Institute of Information Technology (IIIT), Manipur**<br>
 🎓 B.Tech in Electronics and Communication Engineering (ECE)<br>
-📊 CPI: **8.35 / 10**
+📊 CPI: **8.35 / 10** and Recent SPI : **9.23 / 10**
 
 ---
 
