@@ -4,10 +4,6 @@
   <b>Data Science • Data Analytics • Machine Learning • Artificial Intelligence • Automation</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Apoo3va&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
