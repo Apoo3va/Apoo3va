@@ -3,7 +3,9 @@
 <p align="center">
   <b>Data Science • Data Analytics • Machine Learning • Artificial Intelligence • Automation</b>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full%20Time-brightgreen?style=for-the-badge" />
+</p>
 ---
 
 ## 👩‍💻 About Me
@@ -27,8 +29,12 @@ I'm a final year B.Tech ECE student at **Indian Institute of Information Technol
 Developed an AI-powered image-based construction monitoring system at IIT Gandhinagar using Computer Vision.
 
 ---
-
-## 🛠 Tech Stack
+## 📜 Certifications
+- n8n certification : n8n Academy
+- Introduction to Machine Learning : NPTEL ELITE TOPPER (TOP 5% Nationally) - By IIT Madras <br>
+- Computer Architecture and Organisation : NPTEL SILVER ELITE TOPPER (TOP 5% Nationally) - By IIT Kharagpur <br>
+- Arduino Training : IIT Bombay ( Scored 100% in final assessment) <br>
+- Data Fundamentals : IBM Skillsbuild <br>
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -82,19 +88,6 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 - 📌 End-to-End ML Deployment
 - 📌 Workflow Automation with n8n
 - 📌 DSA & Competitive Programming
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apoo3va&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoo3va&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apoo3va&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 
 ---
 
