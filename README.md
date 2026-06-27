@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey, I'm Apoorva</h1>
+<h1 align="center"> Hey, I'm Apoorva</h1>
 
 <p align="center">
   <b>Data Science • Data Analytics • Machine Learning • Artificial Intelligence • Automation</b>
