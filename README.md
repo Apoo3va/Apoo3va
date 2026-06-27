@@ -23,7 +23,7 @@ I'm a final year B.Tech ECE student at **Indian Institute of Information Technol
 
 ## 🏆 Achievements
 
-🥇 **Smart India Hackathon (SIH) 2024 Finalist**
+🥇 **Smart India Hackathon (SIH) 2024 Finalist** <br>
 Developed an AI-powered image-based construction monitoring system at IIT Gandhinagar using Computer Vision.
 
 ---
