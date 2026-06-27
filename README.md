@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur** with a strong passion for Data Science, Machine Learning, Artificial Intelligence and Workflow Automation. Constantly learning and eager to collaborate on impactful projects!
+I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur** Graduting in 2027 with a strong passion for Data Science, Machine Learning, Artificial Intelligence and Workflow Automation. Constantly learning and eager to collaborate on impactful projects!
 
 ---
 ## 🎓 Education
