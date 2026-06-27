@@ -6,7 +6,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full%20Time-brightgreen?style=for-the-badge" />
 </p>
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FFFE9&center=true&vCenter=true&width=500&lines=Data+Science+%7C+ML+%7C+AI;Final+Year+ECE+@+IIIT+Manipur;SIH+2024+Finalist+%F0%9F%8F%86;Building+Intelligent+Systems!" alt="Typing SVG" />
+</p>
 
 ## 👩‍💻 About Me
 
