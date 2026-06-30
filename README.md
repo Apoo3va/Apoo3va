@@ -96,7 +96,7 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 ## 🤝 Let's Connect
 
 - 📧 **Email:** [apoorva.akb@gmail.com](mailto:apoorva.akb@gmail.com)
-- 🔗 **LinkedIn:** [Apoorva Yadav](https://linkedin.com)
+- 🔗 **LinkedIn:** [Apoorva Yadav](https://linkedin.com/in/apoo3va)
 - 🧑‍💻 **GitHub:** [Apoo3va](https://github.com/Apoo3va)
 
 ---
