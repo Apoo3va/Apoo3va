@@ -101,4 +101,4 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 
 ---
 
-<p align="center">⭐️ From Apoorva — Building Intelligent Systems with Data & Automation</p>
+<p align="center">⭐️ From Apoorva : Building Intelligent Systems with Data & Automation</p>
