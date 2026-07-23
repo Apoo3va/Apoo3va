@@ -73,23 +73,13 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 
 ---
 
-## 📂 Featured Projects
-
-### 📊 [Crypto Portfolio Analytics & Alert System](https://github.com/Apoo3va/crypto-portfolio-n8n)
-> Automated workflow that fetches real-time BTC & ETH prices daily, calculates portfolio-weighted performance metrics and delivers instant Telegram alerts.
-- 🛠 Built with **n8n**, **CoinGecko API**, **Telegram Bot API**, **JavaScript**
-- ⚡ Implements cron scheduling, conditional alert logic and Markdown-formatted reports
-- 🔔 Sends daily 🚨 volatility alerts or ✅ normal summaries automatically
-
----
-
 ## 🔥 Current Focus
 
-- 📌 Data Analysis & Visualization
-- 📌 Advanced Machine Learning
-- 📌 End-to-End ML Deployment
-- 📌 Workflow Automation with n8n
-- 📌 DSA & Competitive Programming
+- Data Analysis & Visualization
+- Advanced Machine Learning
+- End-to-End ML Deployment
+- Workflow Automation with n8n
+- DSA & Competitive Programming
 
 ---
 
