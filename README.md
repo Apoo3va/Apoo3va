@@ -18,7 +18,7 @@ I'm a final year B.Tech ECE student at **Indian Institute of Information Technol
 ## 🎓 Education
 
 🏫 **Indian Institute of Information Technology (IIIT), Manipur**<br>
-🎓 B.Tech in Electronics and Communication Engineering (ECE)<br>
+      B.Tech in Electronics and Communication Engineering (ECE)<br>
 📊 CPI: **8.35 / 10** and Recent SPI : **9.23 / 10**
 
 ---
@@ -79,7 +79,7 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 
 ---
 
-## 🔥 Current Focus
+##  Current Focus
 
 - Data Analysis & Visualization
 - Advanced Machine Learning
