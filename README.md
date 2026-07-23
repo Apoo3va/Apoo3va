@@ -32,7 +32,7 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 
 ---
 ## 📜 Certifications
--  Anthropic Certifications -- AI Fluency: Frameworks & Foundations, Claude Platform 101, Claude Code 101, Introduction to Subagents, Introduction to Agent Skills, Introduction to Claude Cowork, Claude Code in Action
+-  Anthropic Certifications : AI Fluency: Frameworks & Foundations, Claude Platform 101, Claude Code 101, Introduction to Subagents, Introduction to Agent Skills, Introduction to Claude Cowork, Claude Code in Action
 - n8n certification : n8n Academy
 - Introduction to Machine Learning : NPTEL ELITE TOPPER (TOP 5% Nationally) - By IIT Madras <br>
 - Computer Architecture and Organisation : NPTEL SILVER ELITE TOPPER (TOP 5% Nationally) - By IIT Kharagpur <br>
@@ -57,12 +57,16 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🤖 ML Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,6 +75,7 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Clay](https://img.shields.io/badge/Clay-000000?style=for-the-badge&logo=clay&logoColor=white)
 
 ---
 
