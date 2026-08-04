@@ -95,14 +95,6 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 
 <br>
 
-## 🏅 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Apoo3va&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
-
 ## 🎯 Current Focus
 
 -  Data Analysis & Visualization
