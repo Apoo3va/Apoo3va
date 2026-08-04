@@ -13,19 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur**, graduating in 2027, with a strong pull toward Data Science, Machine Learning, AI, and workflow automation. I like building things that actually ship — not just notebooks that never leave localhost.
-
-```python
-class Apoorva:
-    def __init__(self):
-        self.role = "Final Year ECE @ IIIT Manipur"
-        self.focus = ["Machine Learning", "AI Systems", "Automation"]
-        self.currently_building = "intelligent, deployable systems"
-        self.fun_fact = "SIH 2024 Finalist 🏆"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something!")
-```
+I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur**, graduating in 2027, with a strong pull toward Data Science, Machine Learning, AI, and workflow automation. I like building things that actually ship , not just notebooks that never leave localhost.
 
 <br>
 
@@ -36,8 +24,8 @@ class Apoorva:
 <td width="80">🏫</td>
 <td>
 
-**Indian Institute of Information Technology (IIIT), Manipur**
-B.Tech in Electronics and Communication Engineering (ECE)
+**Indian Institute of Information Technology (IIIT), Manipur** <br>
+B.Tech in Electronics and Communication Engineering (ECE) <br>
 CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 
 </td>
@@ -48,8 +36,8 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 
 ## 🏆 Achievements
 
-> 🥇 **Smart India Hackathon (SIH) 2024 Finalist**
-> Developed an AI-powered image-based construction monitoring system at IIT Gandhinagar using Computer Vision — one of the top teams nationally out of thousands of entries.
+ 🥇 **Smart India Hackathon (SIH) 2024 Finalist**
+ Developed an AI-powered image-based construction monitoring system at IIT Gandhinagar using Computer Vision - one of the top teams nationally out of thousands of entries.
 
 <br>
 
@@ -129,15 +117,6 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoo3va&theme=tokyo-night&hide_border=true" width="90%" />
 </div>
 
-<br>
-
-## 🏅 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Apoo3va&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
 
 ## 🎯 Current Focus
 
@@ -161,8 +140,13 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 
 </div>
 
+- 📧 **Email:** [apoorva.akb@gmail.com](mailto:apoorva.akb@gmail.com)
+- 🔗 **LinkedIn:** [Apoorva Yadav](https://linkedin.com/in/apoo3va)
+- 🧑‍💻 **GitHub:** [Apoo3va](https://github.com/Apoo3va)
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:6FFFE9&height=120&section=footer" width="100%"/>
 
-<p align="center"><i>⭐️ Building intelligent systems with data & automation — one commit at a time.</i></p>
+<p align="center"><i>⭐️ Building intelligent systems with data & automation </i></p>
+
