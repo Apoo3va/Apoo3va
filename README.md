@@ -7,7 +7,7 @@
 </div>
 
 <br>
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur** Graduting in 2027 with a strong passion for Data Science, Machine Learning, Artificial Intelligence and Workflow Automation. Constantly learning and eager to collaborate on impactful projects! <br>
 
@@ -24,10 +24,6 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 
 ## 📜 Certifications
 
-<details>
-<summary><b>Click to expand full certification list</b></summary>
-<br>
-
 | Provider | Certification |
 |---|---|
 | Langchain Academy | Introduction to Langchain (Python) |
@@ -37,8 +33,6 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 | NPTEL (IIT Kharagpur) | Computer Architecture and Organisation — **Silver Elite Topper, Top 5% Nationally** |
 | IIT Bombay | Arduino Training — Scored 100% in final assessment |
 | IBM SkillsBuild | Data Fundamentals |
-
-</details>
 
 <br>
 
