@@ -32,6 +32,7 @@ Developed an AI-powered image-based construction monitoring system at IIT Gandhi
 
 ---
 ## 📜 Certifications
+- Langchain Academy Certifications : Introduction to Langchain-Python
 -  Anthropic Certifications : AI Fluency: Frameworks & Foundations, Claude Platform 101, Claude Code 101, Introduction to Subagents, Introduction to Agent Skills, Introduction to Claude Cowork, Claude Code in Action
 - n8n certification : n8n Academy
 - Introduction to Machine Learning : NPTEL ELITE TOPPER (TOP 5% Nationally) - By IIT Madras <br>
