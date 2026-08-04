@@ -7,6 +7,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBoeHYwc296NG5zM281Mmgwdzd3djRqcDByamZjb21pbmxkcmtneiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rgzOwma0qMbM3x7Fqi/giphy.gif" width="300"/>
+</div>
+
 ## 👩‍💻 About Me
 
 I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur** Graduting in 2027 with a strong passion for Data Science, Machine Learning, Artificial Intelligence and Workflow Automation. Constantly learning and eager to collaborate on impactful projects! <br>
@@ -29,8 +33,8 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 | Langchain Academy | Introduction to Langchain (Python) |
 | Anthropic | AI Fluency: Frameworks & Foundations, Claude Platform 101, Claude Code 101, Introduction to Subagents, Introduction to Agent Skills, Introduction to Claude Cowork, Claude Code in Action |
 | n8n | Quickstart, Essentials: Your First Workflow, Integrations: APIs and Connected Workflows, In Practice: AI, Testing, and Best Practices |
-| NPTEL (IIT Madras) | Introduction to Machine Learning — **Elite Topper, Top 5% Nationally** |
-| NPTEL (IIT Kharagpur) | Computer Architecture and Organisation — **Silver Elite Topper, Top 5% Nationally** |
+| NPTEL (IIT Madras) | Introduction to Machine Learning - **Elite Topper, Top 5% Nationally** |
+| NPTEL (IIT Kharagpur) | Computer Architecture and Organisation - **Silver Elite Topper, Top 5% Nationally** |
 | IIT Bombay | Arduino Training — Scored 100% in final assessment |
 | IBM SkillsBuild | Data Fundamentals |
 
