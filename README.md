@@ -6,7 +6,6 @@
 
 </div>
 
-<br>
 ## 👩‍💻 About Me
 
 I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur** Graduting in 2027 with a strong passion for Data Science, Machine Learning, Artificial Intelligence and Workflow Automation. Constantly learning and eager to collaborate on impactful projects! <br>
@@ -78,10 +77,6 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 <br>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Apoo3va&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoo3va&theme=tokyo-night&hide_border=true" width="90%" />
