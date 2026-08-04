@@ -8,7 +8,7 @@
 </div> <br>
 
 <div align="center">
-<img src="https://media.giphy.com/media/5owNSuvkqgLg1iqNrF/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/NXEuPHCOiJujANVznL/giphy.gif" width="300"/>
 </div>
 
 ## 👩‍💻 About Me
