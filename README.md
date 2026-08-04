@@ -10,12 +10,9 @@
 </div>
 
 <br>
-
 ## 👩‍💻 About Me
 
-I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur**, graduating in 2027, with a strong pull toward Data Science, Machine Learning, AI, and workflow automation. I like building things that actually ship , not just notebooks that never leave localhost.
-
-<br>
+I'm a final year B.Tech ECE student at **Indian Institute of Information Technology (IIIT), Manipur** Graduting in 2027 with a strong passion for Data Science, Machine Learning, Artificial Intelligence and Workflow Automation. Constantly learning and eager to collaborate on impactful projects! <br>
 
 ## 🎓 Education
 
@@ -26,9 +23,7 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 ## 🏆 Achievements
 
  🥇 **Smart India Hackathon (SIH) 2024 Finalist** <br>
- Developed an AI-powered image-based construction monitoring system at IIT Gandhinagar using Computer Vision - one of the top teams nationally out of thousands of entries.
-
-<br>
+ Developed an AI-powered image-based construction monitoring system at IIT Gandhinagar using Computer Vision - one of the top teams nationally out of thousands of entries. <br>
 
 ## 📜 Certifications
 
