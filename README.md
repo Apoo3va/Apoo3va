@@ -5,9 +5,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FFFE9&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%40+IIIT+Manipur;SIH+2024+Finalist+%F0%9F%8F%86;Building+Intelligent+Systems+with+AI;Turning+Data+into+Decisions" alt="Typing SVG" />
 
-</div>
+</div> <br>
 
-<img src="https://media.giphy.com/media/NXEuPHCOiJujANVznL/giphy.gif" width="300"/>
+<div align="center">
+<img src="https://media.giphy.com/media/5owNSuvkqgLg1iqNrF/giphy.gif" width="300"/>
+</div>
 
 ## 👩‍💻 About Me
 
