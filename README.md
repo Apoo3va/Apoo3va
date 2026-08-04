@@ -19,24 +19,13 @@ I'm a final year B.Tech ECE student at **Indian Institute of Information Technol
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td width="80">🏫</td>
-<td>
-
 **Indian Institute of Information Technology (IIIT), Manipur** <br>
 B.Tech in Electronics and Communication Engineering (ECE) <br>
 CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 
-</td>
-</tr>
-</table>
-
-<br>
-
 ## 🏆 Achievements
 
- 🥇 **Smart India Hackathon (SIH) 2024 Finalist**
+ 🥇 **Smart India Hackathon (SIH) 2024 Finalist** <br>
  Developed an AI-powered image-based construction monitoring system at IIT Gandhinagar using Computer Vision - one of the top teams nationally out of thousands of entries.
 
 <br>
@@ -121,11 +110,11 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 ## 🎯 Current Focus
 
 ```
-📊  Data Analysis & Visualization
-🤖  Advanced Machine Learning
-🚀  End-to-End ML Deployment
-⚙️  AI Automation workflows
-🧠  DSA & Competitive Programming
+-  Data Analysis & Visualization
+-  Advanced Machine Learning
+-  End-to-End ML Deployment
+-  AI Automation workflows
+-  DSA & Competitive Programming
 ```
 
 <br>
