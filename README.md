@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FFFE9,100:0891B2&height=220&section=header&text=Hey,%20I'm%20Apoorva%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20•%20ML%20•%20AI%20•%20Automation&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full%20Time-brightgreen?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=Apoo3va&style=for-the-badge&color=6FFFE9&label=PROFILE+VIEWS" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FFFE9&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%40+IIIT+Manipur;SIH+2024+Finalist+%F0%9F%8F%86;Building+Intelligent+Systems+with+AI;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 </div>
@@ -89,16 +86,22 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Apoo3va&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoo3va&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Apoo3va&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoo3va&theme=tokyo-night&hide_border=true" width="90%" />
 </div>
+
+<br>
+
+## 🏅 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Apoo3va&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br>
 
 ## 🎯 Current Focus
 
