@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FFFE9,100:0891B2&height=220&section=header&text=Hey,%20I'm%20Apoorva%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20•%20ML%20•%20AI%20•%20Automation&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full%20Time-brightgreen?style=for-the-badge" /></p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FFFE9&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%40+IIIT+Manipur;SIH+2024+Finalist+%F0%9F%8F%86;Building+Intelligent+Systems+with+AI;Turning+Data+into+Decisions" alt="Typing SVG" />
 
