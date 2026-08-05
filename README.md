@@ -26,6 +26,7 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 
 | Provider | Certification |
 |---|---|
+| Hugging Face | LLM Course |
 | Langchain Academy | Introduction to Langchain (Python) |
 | Anthropic | AI Fluency: Frameworks & Foundations, Claude Platform 101, Claude Code 101, Introduction to Subagents, Introduction to Agent Skills, Introduction to Claude Cowork, Claude Code in Action |
 | n8n | Quickstart, Essentials: Your First Workflow, Integrations: APIs and Connected Workflows, In Practice: AI, Testing, and Best Practices |
