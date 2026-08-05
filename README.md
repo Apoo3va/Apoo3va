@@ -77,14 +77,6 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoo3va&theme=tokyo-night&hide_border=true" width="90%" />
-</div>
-
-<br>
-
 ## 🎯 Current Focus
 
 -  Data Analysis & Visualization
