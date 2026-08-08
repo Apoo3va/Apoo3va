@@ -88,18 +88,16 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 
 
 <br>
-
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apoo3va)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apoo3va)
-
-- 🔗 **LinkedIn:** [Apoorva Yadav](https://linkedin.com/in/apoo3va)
-- 🧑‍💻 **GitHub:** [Apoo3va](https://github.com/Apoo3va)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:6FFFE9&height=120&section=footer" width="100%"/>
+<p align="center">
+  <a href="https://linkedin.com/in/apoo3va">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Apoo3va">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 <p align="center"><i>⭐️ Building intelligent systems with data & automation </i></p>
 
