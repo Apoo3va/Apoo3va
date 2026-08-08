@@ -87,7 +87,6 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 -  DSA & Competitive Programming
 
 
-<br>
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -99,5 +98,9 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
   </a>
 </p>
 
-<p align="center"><i>⭐️ Building intelligent systems with data & automation </i></p>
+<p align="center">
+  🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/apoo3va">Apoorva Yadav</a>
+  &nbsp; • &nbsp;
+  🧑‍💻 <b>GitHub:</b> <a href="https://github.com/Apoo3va">Apoo3va</a>
+</p>
 
