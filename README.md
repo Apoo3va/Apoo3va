@@ -98,8 +98,6 @@ CPI: **8.35 / 10** &nbsp;|&nbsp; Recent SPI: **9.23 / 10**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apoo3va)
 
 </div>
-
-- 📧 **Email:** [apoorva.akb@gmail.com](mailto:apoorva.akb@gmail.com)
 - 🔗 **LinkedIn:** [Apoorva Yadav](https://linkedin.com/in/apoo3va)
 - 🧑‍💻 **GitHub:** [Apoo3va](https://github.com/Apoo3va)
 
